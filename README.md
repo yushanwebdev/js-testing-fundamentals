@@ -5,7 +5,7 @@
 <hr />
 
 <p align="center" style="font-size: 1.2rem;">
-  Learn how automated JavaScript testing works by building a framework!
+  To learn how automated JavaScript testing works by building a framework!
 </p>
 
 <hr />
